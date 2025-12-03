@@ -34,3 +34,9 @@
   height: 100%;
   border: 0;
 }
+
+.instagram-media {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
